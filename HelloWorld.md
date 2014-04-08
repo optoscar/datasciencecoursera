@@ -1,8 +1,3 @@
-This is the title
-========================================================================
-
-# Is this a first title?
-
 ## This is a markdown file
 
 some other tests:
